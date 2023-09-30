@@ -19,7 +19,7 @@ jobs:
 
           # Options
           template: classic
-          user: Web3-Camp
+          user: Web3Camp-Labs
           base: header, activity, community, repositories, metadata
           repositories_forks: yes
 
