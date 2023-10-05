@@ -16,4 +16,6 @@ Our mission is to curate and develop a diverse range of open source tools, libra
 - 社区： 我们重视支持和参与社区的力量。我们促进联系，鼓励参与，并为知识共享、指导和交流提供平台。
 - 持续学习： 我们崇尚学习和成长的文化。我们鼓励持续教育，了解 Web3 技术的最新进展，并在整个社区分享知识。
 
+[Web3Camp Backlogs](https://github.com/orgs/Web3Camp-Labs/projects/3), you can find all the development works in backlogs.
+
 [Brand Assets](https://github.com/Web3Camp-Labs/graphic-assets)
