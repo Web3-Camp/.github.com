@@ -2,7 +2,7 @@
 
 Web3Camp is supported and incubated by [Rebase Community](https://rebase.network) whose GitHub is https://github.com/rebase-network.
 
-Our Vision is to foster a vibrant and inclusive Web3 ecosystem by building a rich collection of innovative tools and resources that empower Web3 developers and enthusiasts to explore, create, and thrive.
+Our vision is to foster a vibrant and inclusive Web3 ecosystem by building a rich collection of innovative tools and resources that empower Web3 developers and enthusiasts to explore, create, and thrive.
 
 Our mission is to curate and develop a diverse range of open-source tools, libraries, and educational content that simplify Web3 development, promote collaboration, and inspire the next generation of decentralized applications and services.
 
