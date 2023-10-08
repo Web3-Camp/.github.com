@@ -1,3 +1,5 @@
+[Site](https://web3camp.us) | [Twitter](https://twitter.com/Web3Camp) | [Telegram](https://t.me/Web3Camp_Community) | [Wiki](https://github.com/Web3Camp-Labs/wiki) | [Backlogs](https://github.com/orgs/Web3Camp-Labs/projects/3) | [Brand Assets](https://github.com/Web3Camp-Labs/graphic-assets)  
+
 **Web3Camp** is an open-source project focused on buidling, and provides the tools and resources for buidlers. 
 
 Web3Camp is supported and incubated by [Rebase Community](https://rebase.network) whose GitHub is https://github.com/rebase-network.
@@ -10,7 +12,3 @@ Our mission is to curate and develop a diverse range of open-source tools, libra
 - Innovation: We strive to push the boundaries of technology and explore new possibilities in the Web3 space. We encourage experimentation and support groundbreaking ideas and projects.
 - Community: We value the strength of a supportive and engaged community. We foster connections, encourage participation, and provide a platform for knowledge sharing, mentorship, and networking.
 - Continuous Learning: We embrace a culture of learning and growth. We encourage continuous education, staying up to date with the latest advancements in Web3 technologies, and sharing knowledge across the community.
-
-[Backlogs](https://github.com/orgs/Web3Camp-Labs/projects/3), you can find all the development works in backlogs.  
-
-[Brand Assets](https://github.com/Web3Camp-Labs/graphic-assets)  
